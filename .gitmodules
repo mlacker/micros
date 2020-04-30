@@ -1,0 +1,6 @@
+[submodule "micros-app"]
+	path = micros-app
+	url = git@github.com:mlacker/micros-app.git
+[submodule "micros-services"]
+	path = micros-services
+	url = git@github.com:mlacker/micros4j.git
